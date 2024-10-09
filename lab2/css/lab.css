@@ -7,3 +7,17 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+  h1 {
+    color: #ff6b35;
+    font-size: 50px;
+  }
+  p{
+    color: #004e89;
+    font-size: 25px;
+    font-family: "times new roman";
+    text-indent: 15px;
+    }
+    #content {
+      background-color: #efefd0;
+      border: dashed 2px #1a659e;
+    }
