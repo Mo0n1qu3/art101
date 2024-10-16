@@ -1,0 +1,53 @@
+body {
+    font-family: montserrat;
+    margin: 0;
+    color: #e26d5c;
+    background-color: #c9cba3;
+}
+
+.header {
+    
+    padding: 60px;
+    text-align: center;
+    background-color: #ffe1a8;
+    color: #e26d5c;
+    font-size: 30px;
+    font-family: montserrat;
+}
+
+#content {
+    margin-left: 140px;
+    padding: 10px;
+    border: solid 1px #472d30;
+    background-color: #472d30;
+  }
+  
+.sidenav {
+    font-family: montserrat;
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #ffe1a8;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+
+.sidenav a {
+    font-family: montserrat;
+    padding: 6px 8px 6px 16px;
+    font-size: 25px;
+    color: #e26d5c;
+    display: block; 
+}
+
+
+.main {
+    text-align:justify;
+    font-family: montserrat;
+    margin-left: 140px;
+    font-size: 28px;
+    padding: 0px 10px;
+}
+
