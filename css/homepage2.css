@@ -51,3 +51,13 @@ body {
     padding: 0px 10px;
 }
 
+#links {
+    font-family: monsterrat;
+    padding: 10px;
+    font-size: 15px;
+    background: #ffe1a8;
+    color: #e26d5c;
+    border: solid 5px #472d30;
+    
+}
+

@@ -1,6 +1,6 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - rock paper scissors
+// Author: monique willard
+// Date: 16 oct 2024
 
 // Constants
 
@@ -19,3 +19,18 @@ function main() {
 
 // let's get this party started
 main();
+
+// prompt the user to enter rock, paper, or scissors
+// accept user input of rock, paper, or scissors
+// computer randomly choose rock, paper, or scissors
+// reveal both computer choice and user choice
+// test of win or draw condition
+  //User rock + computer paper = computer win
+  //User rock + computer scissors = user win
+  //User paper + computer rock = user win
+  //User paper + computer paper = draw
+  //User paper + computer scissors = computer win
+  //User scissors + computer rock = computer win
+  //User scissors + computer paper = user win
+  //User scissors + computer scissors = draw
+
