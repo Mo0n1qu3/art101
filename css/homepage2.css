@@ -58,6 +58,26 @@ body {
     background: #ffe1a8;
     color: #e26d5c;
     border: solid 5px #472d30;
-    
 }
-
+#links {
+    a:link {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #efa99e;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:active {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    }

@@ -4,6 +4,44 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 5px #472d30;
+    background-color: #ffe1a8;
   }
+  #content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 5px #472d30;
+    background-color: #c9c9c9;
+  }
+
+  #links {
+    font-family: monsterrat;
+    padding: 10px;
+    font-size: 15px;
+    background: #ffe1a8;
+    color: #e26d5c;
+    border: solid 5px #472d30;
+}
+#links {
+    a:link {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #efa99e;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:active {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    }
+
