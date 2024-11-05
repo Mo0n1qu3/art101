@@ -1,0 +1,50 @@
+#thiscontent {
+    margin-left: 10px;
+    padding: 10px;
+    border: solid 1px #472d30;
+    background-color: #472d30;
+  }
+  
+
+#challenge {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+  #problems {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+    position: absolute;
+  }
+  #results {
+    padding: 10px;
+    margin-top: 260px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #DDD8C4;
+  }
+  .special {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: dotted 5px #aeff00;
+    background-color: #640000;
+    font-weight: bold;
+
+  }
+
+  #panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background: #ffe1a8;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }
+
+  
