@@ -10,6 +10,7 @@ $("#challenge").append("<button id='button-challenge'>Make special</button>");
 $("#button-challenge").click(function(){
     $("#challenge").toggleClass("special");
 });
+
 $("#button-challenge").css({
     "color": "#e26d5c",
     "font-family": "monstserrat",

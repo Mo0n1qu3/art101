@@ -1,0 +1,10 @@
+.text p {
+    display: inline-block;
+    max-width: 60%;
+    margin: 5px;
+    padding:8px 10px;
+    border-radius: 20px;
+    background-color: #6382cf;
+    color: #ffffff;
+    font-family: oswald;
+}

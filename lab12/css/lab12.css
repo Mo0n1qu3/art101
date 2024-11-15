@@ -1,0 +1,76 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: comfortaa;
+}
+
+
+.tablink{
+    background-color: #555;
+    border-radius: 5px;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+    font-family: comfortaa;
+}
+
+.tablink:hover {
+    background-color:#777;
+}
+
+.tabcontent{
+    color: black;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+
+#Challenge {
+    background-color: red;
+}
+
+#Problems {
+    background-color: green;
+}
+
+#Results {
+    background-color: blue;
+}
+
+#Grocery {
+    background-color: orange;
+}
+
+#content {
+    font-family: comfortaa;
+    background-color: white;
+    color: black;
+
+}
+
+#links {
+    a:link {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #efa99e;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:active {
+      color: #e26d5c;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    }
