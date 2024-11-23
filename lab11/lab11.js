@@ -12,13 +12,11 @@ function sortString(inputString) {
     // We have to convert our string to an array and back again to sort it
     return inputString.split('').sort().join('');
   }
- let userNameSorted= sortString(userName);
- let userName = $("#user-name").val();
+ 
   // click listener for button
 $("#submit").click(function(){
-
-
     const userName = $("#user-name").val();
-    userNameSorted = sortString(userName);  
+    const userNameSorted = sortString(userName); 
+    // output result to html output element 
     $("#output").html('<div class="text"><p>' + userNameSorted + '</p></div>');
 });
